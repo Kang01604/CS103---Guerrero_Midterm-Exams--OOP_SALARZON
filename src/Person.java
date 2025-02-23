@@ -42,7 +42,6 @@ public class Person {
    // Main method - entry point of the program
    public static void main(String[] args) {
         // Creating five Person instances (Using array to for easier maintenance)
-	    // 
 	      Person[] people = {
 	              new Person("Charles", 20, "Cainta, Rizal"),
 	              new Person("Kimberly", 21, "Tagaytay, Cavite"),

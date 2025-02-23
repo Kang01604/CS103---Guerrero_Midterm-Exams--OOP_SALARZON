@@ -43,14 +43,14 @@ public class Dog {
         System.out.printf("|  %-12s | %-17s |\n", dog2.getName(), dog2.getBreed());
         System.out.println("-------------------------------------");
         
-        //Updating the values using setter methods
+        // Updating the values using setter methods
         dog1.setName("Pluto");
         dog2.setName("Spike");
 
         dog1.setBreed("Bloodhound");
         dog2.setBreed("Bulldog");
         
-        //Printing the updated values
+        // Printing the updated values
         System.out.println("\nMODIFIED ATTRIBUTES AFTER USING SETTER METHODS:");
         System.out.println("-------------------------------------");
         System.out.println("|  DOG'S NAME   |       BREED       |");
