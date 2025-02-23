@@ -1,11 +1,8 @@
-// Define the Person class
 public class Person {
-    // Declare private variables for name, age, and address
     private String name;
     private int age;
     private String address;
 
-    // Constructor for the Person class that initializes name, age, and address
     public Person(String name, int age, String address) {
         this.name = name;
         this.age = age;
